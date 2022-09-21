@@ -1,4 +1,4 @@
-### Well hello there! This is Snowy!
+### Well hello there! This is Snowy! Day 2 practice
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
