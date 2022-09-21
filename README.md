@@ -1,4 +1,4 @@
-### Well hello there! This is Snowy! Day 2 practice
+### Well hello there! This is Snowy! Day 2 practice - make changes from a branch and then merge to the main
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
